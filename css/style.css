@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+label {
+    font-family: 'Gentium Plus', serif;
+}
+
+.cont_form {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img {
+    height: 50px;
+}
+
+.texto {
+    color: white;
+    font-family: 'Gentium Plus', serif;
+}
+
+.div_pad {
+    padding: 10px;
+    font-size: xx-small;
+    background-color: #4fcdc5;
+}
+
+.div_boton {
+    padding-left: 470px;
+    padding-top: 10px;
+}
+
+input {
+    height: 50%;
+    font-size: xx-small;
+}
